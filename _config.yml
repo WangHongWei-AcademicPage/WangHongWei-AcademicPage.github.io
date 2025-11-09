@@ -7,10 +7,10 @@
 # Basic Site Settings
 # ======================
 locale                   : "en-US"
-title                    : "Hongwei Wang | Pure Mathematics"
+title                    : "Hongwei Wang | Academic Page"
 title_separator          : "-"
 name                     : "Hongwei Wang"
-description              : "Pure Mathematics Student | Algebraic Topology & Homotopy Theory | Formal Verification with Lean"
+description              : "A student of pure math in pursuit of becoming a mathematician"
 url                      : "https://wanghongwei-academicpage.github.io"
 baseurl                  : ""
 repository               : "WangHongWei-AcademicPage/WangHongWei-AcademicPage.github.io"
@@ -23,7 +23,7 @@ author:
   avatar           : "profile.png"
   name             : "Hongwei Wang"
   pronouns         : 
-  bio              : "A pure mathematics student pursuing research in algebraic topology, homotopy theory, and formal verification using Lean theorem prover."
+  bio              : "A student of pure math in pursuit of becoming a mathematician."
   location         : "Suzhou, China"
   employer         : "Xi'an Jiaotong-Liverpool University"
   uri              : 
