@@ -14,6 +14,12 @@ You can find my CV here: [Hongwei.Wang CV, 11/09/25 updated](../assets/CV.pdf). 
 
 On this website, you can explore the undergraduate work, academic talks, teaching experience and academic portfolio via the links in the navigation bar above. If my academic pursuits aligh with your interests, please feel free to contact me via my personal email [1972396871@qq.com](1972396871@qq.com) or through my official university email address [Hongwei.wang22@student.xjtlu.edu.cn](Hongwei.wang22@student.xjtlu.edu.cn).
 
-title: "Education background"
-
-yesy
+---
+permalink: /
+title: "Personaln"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+yes
