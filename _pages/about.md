@@ -14,12 +14,11 @@ You can find my CV here: [Hongwei.Wang CV, 11/09/25 updated](../assets/CV.pdf). 
 
 On this website, you can explore the undergraduate work, academic talks, teaching experience and academic portfolio via the links in the navigation bar above. If my academic pursuits aligh with your interests, please feel free to contact me via my personal email [1972396871@qq.com](1972396871@qq.com) or through my official university email address [Hongwei.wang22@student.xjtlu.edu.cn](Hongwei.wang22@student.xjtlu.edu.cn).
 
----
-permalink: /
-title: "Personaln"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-yes
+
+## Education
+
+* **B.Sc. in Pure Mathematics** (Expected 2026)
+  * Xi'an Jiaotong-Liverpool University (XJTLU), Suzhou, China
+  * **Relevant Coursework:** Algebraic Topology, Homotopy Theory, Category Theory, Differential Geometry, Real & Complex Analysis, Abstract Algebra.
+  * **Thesis:** *[Your Thesis Title]* (Advised by *[Professor's Name]*)
+
