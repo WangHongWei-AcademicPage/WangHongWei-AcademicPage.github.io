@@ -11,6 +11,3 @@ I'm a year 4 undergraduate student from [School of Mathematics and Physics](http
 For further information, you can find my CV here: [Hongwei.Wang CV, 11/09/25 updated](../assets/CV.pdf). The attached document is a reverse-chronological summary of my study. For a detailed narrative of my study and experiences, please just read the content in this website.
 
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
