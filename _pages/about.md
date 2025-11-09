@@ -17,8 +17,10 @@ On this website, you can explore the undergraduate work, academic talks, teachin
 
 ## Education
 
-* **B.Sc. in Pure Mathematics** (Expected 2026)
-  * Xi'an Jiaotong-Liverpool University (XJTLU), Suzhou, China
-  * **Relevant Coursework:** Algebraic Topology, Homotopy Theory, Category Theory, Differential Geometry, Real & Complex Analysis, Abstract Algebra.
-  * **Thesis:** *[Your Thesis Title]* (Advised by *[Professor's Name]*)
+* **B.Sc. in Mathematics and Applied Mathematics** (09/2022 - Expected 06/2026)
+  * School of Mathematics and Physics, Xi'an Jiaotong-Liverpool University (XJTLU), Suzhou, China
+
+* **Visiting Scholar under the mentorship of Proessor Gu Xing's group** (09/2025 - Expected 03/2026)
+  * Institute for Theoretical Sciences, Westlake University, Hangzhou, China
+  
 
