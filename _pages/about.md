@@ -22,7 +22,14 @@ On this website, you can explore my undergraduate works, academic talks, teachin
 
 * **Visiting Scholar in Westlake University (09/2025 - Expected 03/2026)**
   * Prof. GU Xing's Group, Institute for Theoretical Sciences, Westlake University, Hangzhou, China
- 
+
+## Expository Writings
+#### (See detailed information in 'Writings')
+[Categorical Algebra and Homotopy Theory (In progress)](../assets/fyp.pdf)
+[Upperbound for Hausdorff Dimension of Fractals under Symmetry Group (05/2025)](../assets/paper_update.pdf)
+[AI-Driven Python Code Generation for Solving Specific Mathematics Problems (04/2025)](../assets/Ai.pdf)
+[Futurama Theorm: Group and permutations in body changing problem (03/2025)](../assets/11/pdf)
+[Introduction to Commutative Algebra Rings and Ideals (08/2024)] 
 ## Academic Experience
 
 ### Categorical Algebra & Homotopy Theory
