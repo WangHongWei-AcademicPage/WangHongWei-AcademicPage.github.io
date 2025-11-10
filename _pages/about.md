@@ -29,13 +29,13 @@ You can find my CV here: [Hongwei.Wang CV, 11/09/25 updated](../assets/CV.pdf). 
 
 | Title | Date | Link |
 | :--- | :--- | :--- |
-| **Categorical Algebra and Homotopy Theory** | In Progress | [[PDF]](../assets/fyp.pdf) |
-| **An Upper Bound for the Hausdorff Dimension of Fractals under Symmetry Group Action** | May 2025 | [[PDF]](../assets/paper_update.pdf) |
-| **AI-Driven Python Code Generation for Solving Specific Mathematics Problems** | Apr 2025 | [[PDF]](../assets/Ai.pdf) |
-| **The Futurama Theorem: Group Theory and Permutations in a Body-Swapping Problem** | Mar 2025 | [[PDF]](../assets/C1.pdf) |
+| **Categorical Algebra and Homotopy Theory** | In Progress | [[PDF]](../assets/categorical_algebra_homotopy_theory.pdf) |
+| **An Upper Bound for the Hausdorff Dimension of Fractals under Symmetry Group Action** | May 2025 | [[PDF]](../assets/Hausdorff_dimension.pdf) |
+| **AI-Driven Python Code Generation for Solving Specific Mathematics Problems** | Apr 2025 | [[PDF]](../assets/Ai_Driven_Code.pdf) |
+| **The Futurama Theorem: Group Theory and Permutations in a Body-Swapping Problem** | Mar 2025 | [[PDF]](../assets/Futurama.pdf) |
 | **Introduction to Commutative Algebra: Rings and Ideals** | Aug 2024 | [[PDF]](../assets/Introduction_to_Rings_Ideals.pdf) |
 | **Poster of Visualizing The Distribution of Prime Numbers** | Aug 2024 | [[PDF]](../assets/main.pdf) |
-| **Arithmetical Functions and Elementary Theorems on the Distribution of Primes** | July 2024 | [[PDF]](../assets/C2.pdf) |
+| **Arithmetical Functions and Elementary Theorems on the Distribution of Primes** | July 2024 | [[PDF]](../assets/Arithmatical_Functions.pdf) |
 
 ## Academic Experience
 
