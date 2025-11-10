@@ -33,7 +33,7 @@ You can find my CV here: [Hongwei.Wang CV, 11/09/25 updated](../assets/CV.pdf). 
 | **An Upper Bound for the Hausdorff Dimension of Fractals under Symmetry Group Action** | May 2025 | [[PDF]](../assets/paper_update.pdf) |
 | **AI-Driven Python Code Generation for Solving Specific Mathematics Problems** | Apr 2025 | [[PDF]](../assets/Ai.pdf) |
 | **The Futurama Theorem: Group Theory and Permutations in a Body-Swapping Problem** | Mar 2025 | [[PDF]](../assets/C1.pdf) |
-| **Introduction to Commutative Algebra: Rings and Ideals** | Aug 2024 | [[PDF]](../assets/Rings.pdf) |
+| **Introduction to Commutative Algebra: Rings and Ideals** | Aug 2024 | [[PDF]](../assets/Introduction_to_Rings_Ideals.pdf) |
 | **Poster of Visualizing The Distribution of Prime Numbers** | Aug 2024 | [[PDF]](../assets/main.pdf) |
 | **Arithmetical Functions and Elementary Theorems on the Distribution of Primes** | July 2024 | [[PDF]](../assets/C2.pdf) |
 
