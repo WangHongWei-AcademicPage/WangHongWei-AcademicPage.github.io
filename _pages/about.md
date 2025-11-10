@@ -24,6 +24,7 @@ On this website, you can explore the undergraduate work, academic talks, teachin
   * Prof. GU Xing's Group, Institute for Theoretical Sciences, Westlake University, Hangzhou, China
  
 ## Pure Math Study
-# Categorical Algebra and Homotopy Theory (09/2025 - Expected 06/2026)
+### Categorical Algebra and Homotopy Theory (09/2025 - Expected 06/2026)
+Study basic categ
   
 
