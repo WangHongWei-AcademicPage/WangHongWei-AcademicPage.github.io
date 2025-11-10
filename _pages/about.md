@@ -12,7 +12,7 @@ As a pure mathematics student, I focus on Algebraic Topology and Homotopy Theory
 
 You can find my CV here: [Hongwei.Wang CV, 11/09/25 updated](../assets/CV.pdf). The attached document is a reverse-chronological summary of my study. You can also read the content in this website for a detailed narrative of my study and experiences,
 
-On this website, you can explore my undergraduate works, academic talks, teaching experience and academic portfolio via the links in the navigation bar above. If my academic pursuits aligh with your interests, please feel free to contact me via my personal email [1972396871@qq.com](1972396871@qq.com) or through my official university email address [Hongwei.wang22@student.xjtlu.edu.cn](Hongwei.wang22@student.xjtlu.edu.cn).
+<p>On this website, you can explore my undergraduate works, academic talks, teaching experience and academic portfolio via the links in the navigation bar above. If my academic pursuits align with your interests, please feel free to contact me via my personal email <a href="mailto:1972396871@qq.com">1972396871@qq.com</a> or through my official university email address <a href="mailto:Hongwei.wang22@student.xjtlu.edu.cn">Hongwei.wang22@student.xjtlu.edu.cn</a>.</p>
 
 
 ## Education
