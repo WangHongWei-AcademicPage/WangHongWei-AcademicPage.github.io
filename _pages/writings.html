@@ -5,32 +5,37 @@ permalink: /writings/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 
-{% include base_path %}
+## Expository Writings
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<div class="publications">
+  <div class="publication-item">
+    <h3><a href="../assets/fyp.pdf">Categorical Algebra and Homotopy Theory</a> <em>(In progress)</em></h3>
+    <p>Exploring algebraic topology through category theory with focus on homotopy theory.</p>
+  </div>
 
+  <div class="publication-item">
+    <h3><a href="../assets/paper_update.pdf">Upperbound for Hausdorff Dimension of Fractals under Symmetry Group</a> <em>(05/2025)</em></h3>
+    <p>Investigating constraints on fractal dimension imposed by symmetry groups.</p>
+  </div>
 
+  <div class="publication-item">
+    <h3><a href="../assets/Ai.pdf">AI-Driven Python Code Generation for Solving Specific Mathematics Problems</a> <em>(04/2025)</em></h3>
+    <p>Empirical study on applying generative programming to pure mathematics.</p>
+  </div>
 
+  <div class="publication-item">
+    <h3><a href="../assets/C1.pdf">Futurama Theorem: Group and permutations in body changing problem</a> <em>(03/2025)</em></h3>
+    <p>Analysis of group theory puzzles inspired by the Futurama animated series.</p>
+  </div>
+
+  <div class="publication-item">
+    <h3><a href="../assets/Rings.pdf">Introduction to Commutative Algebra Rings and Ideals</a> <em>(08/2024)</em></h3>
+    <p>Foundational overview of core concepts in commutative algebra.</p>
+  </div>
+
+  <div class="publication-item">
+    <h3><a href="../assets/C2.pdf">Arithmetical Functions of Elementary Theorems on The Distribution of Primes</a></h3>
+    <p>Review of fundamental theorems in analytic number theory concerning prime distribution.</p>
+  </div>
+</div>
