@@ -25,66 +25,69 @@ On this website, you can explore my undergraduate works, academic talks, teachin
  
 ## Academic Experience
 
-### Research Assistant in Categorical Algebra & Homotopy Theory
-**Xi'an Jiaotong-Liverpool University** (Sep 2025 - Expected Jun 2026) | *Advisor: Prof. Alastair Darby*  
-- Spearheaded a research project bridging category theory, algebraic topology, and formal verification
-- Formalized core theorems of algebraic topology in **Lean**, including a complete proof of π₁(S¹) ≅ ℤ
-- Established categorical insights by proving equivalence between van Kampen theorem and categorical colimits
-- Developed unified mathematical perspective through categorical framing of Galois theory for covering spaces
-- Solidified expertise in fundamental groups, covering spaces, simplicial homology, and homotopy theory
+### Categorical Algebra & Homotopy Theory
+**Xi'an Jiaotong-Liverpool University** (09/2025 - Expected 06/2026) | *Advisor: Prof. Alastair Darby*  
+- Conducted systematic study of algebraic topology and homotopy theory, developing understanding of fundamental groups, groupoids, covering spaces, and simplicial homology
+- Explored connections between category theory and algebraic topology, examining equivalence between van Kampen theorem and groupoid formulations
+- Investigated categorical approaches to Galois theory of covering spaces, analyzing connections between topological and algebraic structures
+- Studied dependent type theory and used **Lean** theorem prover to formalize fundamental theorems, completing verification of π₁(S¹) ≅ ℤ
 
 <br>
 
 ### Visiting Scholar in Algebraic Topology
-**Westlake University** (Sep 2025 - Expected Mar 2026) | *Advisor: Prof. Xing Gu*  
-- Engaged in graduate-level studies through weekly attendance of advanced algebraic topology seminar
-- Conducted self-directed thesis research on modern algebraic topology using Haynes Miller's notes
-- Mastered simplicial homology and homotopy theory with focus on categorical foundations
+**Westlake University** (09/2025 - Expected 03/2026) | *Advisor: Prof. Xing Gu*  
+- Attended graduate-level algebraic topology seminars weekly, deepening understanding of advanced topics
+- Studied basic homotopy theory under supervision, conducting undergraduate thesis work
+- Engaged in self-directed study of modern algebraic topology using Haynes Miller's lectures
+- Examined simplicial homology theory and homotopy theory, focusing on categorical interpretations
 
 <br>
 
-### Participant, Global Mathematics Students' Summer School  
-**Westlake University** (Jun 2025 - Jul 2025) | *Organizer: Prof. Huayi Chen*  
-- Immersed in intensive program with daily discussions on **information geometry**, **algebraic geometry**, **algebraic number theory**, **elliptic PDE regularity theory**, and **modular forms**
-- Synthesized complex material through detailed notes and cross-topic summaries
-- Built robust interdisciplinary knowledge framework across multiple mathematical domains
+### Global Mathematics Students' Summer School
+**Westlake University** (06/2025 - 07/2025) | *Organizer: Prof. Huayi Chen*  
+- Participated in intensive summer program with daily mathematics discussion sessions
+- Studied fundamental structures across multiple fields: **information geometry**, **algebraic geometry**, **algebraic number theory**, **elliptic PDE regularity theory**, and **modular forms**
+- Organized core theorems and proof techniques for each topic, creating comprehensive study notes
+- Developed cross-disciplinary mathematical framework through systematic summarization
 
 <br>
 
-### Lecturer & Organizer, Undergraduate Category Theory Seminar
-**Xi'an Jiaotong-Liverpool University** (Feb 2025 - May 2025) | *Organizer: Prof. Adam-Chrisiaan von*  
-- Mastered advanced category theory: limits, representable functors, and Yoneda lemma
-- Designed and delivered special lecture elucidating abstract concepts through concrete examples
-- Explained representable functors using group actions and category of presheaves
+### Undergraduate Category Theory Seminar
+**Xi'an Jiaotong-Liverpool University** (02/2025 - 05/2025) | *Organizer: Prof. Adam-Chrisiaan von*  
+- Mastered category theory fundamentals: categories, functors, natural transformations, limits, representable functors, and Yoneda lemma
+- Delivered special lecture on representable functors and Yoneda lemma as student lecturer
+- Explained abstract categorical constructions using concrete examples from algebra and topology
+- Illustrated concepts through set representations, group actions, and category of presheaves
 
 <br>
 
-### Summer Research Fellow in Analytic Number Theory
-**Xi'an Jiaotong-Liverpool University** (Jun 2024 - Sep 2024) | *Advisor: Prof. Pietro Sgobba*  
-- Conducted in-depth study of analytic number theory using Apostol's text
-- Mastered arithmetical functions, Chebyshev estimates, and elementary Prime Number Theorem
-- Authored review paper *"Arithmetical Functions and Elementary Theorems on the Distribution of Primes"*
-- Programmed **Python** visualizations for prime number spirals (Ulam, Klauber, Sacks)
+### Analytic Number Theory Study
+**Xi'an Jiaotong-Liverpool University** (06/2024 - 09/2024) | *Advisor: Prof. Pietro Sgobba*  
+- Studied Tom M. Apostol's *Introduction to Analytic Number Theory*, mastering arithmetical functions and Chebyshev estimates
+- Learned elementary forms of Prime Number Theorem through guided study
+- Wrote review paper *"Arithmetical Functions and Elementary Theorems on the Distribution of Primes"*
+- Programmed **Python** visualizations generating prime number spirals (Ulam, Klauber, Sacks)
+- Investigated properties of prime-rich polynomials through computational analysis
 
 ---
 
-## Interdisciplinary Projects
+## Academic Projects
 
-### Workshop Member: AI in Mathematics Learning
-**Xi'an Jiaotong-Liverpool University** (Oct 2024 - Apr 2025) | *Advisor: Prof. Jinsong Xu*  
-- Led six-month empirical study applying generative programming to **complex analysis**, **abstract algebra**, **topology**
-- Developed three interactive learning tools:
-  1. Machine-learning proof for simple case of **Ramsey's Theorem** on K₅
-  2. Visualization tool for **conformal mappings** with automatic singularity detection
-  3. Scalar field visualization program computing and plotting gradient vectors
-- Authored research report *"AI-Driven Python Code Generation for Solving Specific Mathematics Problems"*
+### AI in Mathematics Learning Workshop
+**Xi'an Jiaotong-Liverpool University** (10/2024 - 04/2025) | *Advisor: Prof. Jinsong Xu*  
+- Designed and coordinated six-month study applying generative programming to pure mathematics
+- Developed interactive learning tools for **complex analysis**, **abstract algebra**, and **topology**
+- Created machine-learning analysis of Ramsey's Theorem case on K₅ through computer self-play optimization
+- Built visualization tool for conformal mappings with automatic singularity detection
+- Programmed scalar field visualization with automatic gradient computation and plotting
+- Presented findings in report *"AI-Driven Python Code Generation for Solving Specific Mathematics Problems"*
 
 <br>
 
-### Research Assistant: Data-Driven Astronomy
-**Xi'an Jiaotong-Liverpool University** (Oct 2022 - Jun 2023) | *Advisor: Prof. Xiaoying Pang*  
-- Processed and analyzed high-dimensional **Gaia DR3** star catalog using **Python**
-- Applied **Gaussian Mixture Model (GMM)** for member star screening of Beehive Cluster
-- Implemented **Self-Organizing Map (SOM)** for unsupervised clustering analysis
-- Identified 387 high-confidence member stars and produced color-magnitude diagram (CMD)
-
+### Stellar Cluster Analysis Project
+**Xi'an Jiaotong-Liverpool University** (10/2022 - 06/2023) | *Advisor: Prof. Xiaoying Pang*  
+- Processed **Gaia DR3** star catalog data using **Python** for cleaning and dimensionality reduction
+- Applied **Gaussian Mixture Model (GMM)** to identify member stars of Beehive Cluster
+- Identified 387 high-confidence member stars (confidence > 90%) through statistical analysis
+- Produced color-magnitude diagram (CMD) for stellar population analysis
+- Implemented **Self-Organizing Map (SOM)** for unsupervised clustering of stellar data
