@@ -35,12 +35,16 @@ On this website, you can explore my undergraduate works, academic talks, teachin
 - Developed a unified mathematical perspective by framing the Galois theory of covering spaces within a categorical framework, linking topological and algebraic constructs.
 - Solidified expertise through systematic study of fundamental groups, covering spaces, simplicial homology, and homotopy theory.
 
+
+
 ### Visiting Scholar in Algebraic Topology
 **Westlake University** | *Sep 2025 - Expected Mar 2026*  
 *Advisor: Prof. Xing Gu*
 
 - Engaged in graduate-level studies by attending Prof. Gu's advanced algebraic topology seminar weekly, deepening theoretical understanding.
 - Conducted self-directed thesis research on modern algebraic topology, utilizing Haynes Miller's notes to master simplicial homology and homotopy theory with a focus on their categorical foundations.
+
+
 
 ### Participant, Global Mathematics Students' Summer School
 **Westlake University** | *Jun 2025 - Jul 2025*  
@@ -49,12 +53,16 @@ On this website, you can explore my undergraduate works, academic talks, teachin
 - Immersed in an intensive program featuring daily discussions on advanced topics including **information geometry**, **algebraic geometry**, **algebraic number theory**, **elliptic PDE regularity theory**, and the **analytic/arithmetic properties of modular forms**.
 - Synthesized complex material by compiling detailed notes and cross-topic summaries, facilitating the construction of a robust, interdisciplinary knowledge framework.
 
+
+
 ### Lecturer & Organizer, Undergraduate Category Theory Seminar
 **Xi'an Jiaotong-Liverpool University** | *Feb 2025 - May 2025*  
 *Organizer: Prof. Adam-Chrisiaan von*
 
 - Mastered advanced category theory concepts including limits, representable functors, and the Yoneda lemma.
 - Designed and delivered a special lecture for peers, elucidating abstract concepts like representable functors and the Yoneda lemma through concrete examples from algebra (e.g., group actions) and topology (e.g., the category of presheaves).
+
+
 
 ### Summer Research Fellow in Analytic Number Theory
 **Xi'an Jiaotong-Liverpool University** | *Jun 2024 - Sep 2024*  
@@ -78,6 +86,8 @@ On this website, you can explore my undergraduate works, academic talks, teachin
     2.  A visualization tool for **conformal mappings** with automatic singularity detection.
     3.  A scalar field visualization program that computes and plots gradient vectors.
 - Authored and presented the research report *"AI-Driven Python Code Generation for Solving Specific Mathematics Problems"*, receiving positive recognition.
+
+
 
 ### Research Assistant: Data-Driven Astronomy
 **Xi'an Jiaotong-Liverpool University** | *Oct 2022 - Jun 2023*  
