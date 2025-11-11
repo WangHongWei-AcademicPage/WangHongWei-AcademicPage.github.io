@@ -39,7 +39,7 @@ You can find my CV here: [Hongwei.Wang CV, 11/09/25 updated](../assets/CV.pdf). 
 
 ## Academic Experience
 
-### Categorical Algebra & Homotopy Theory
+<h2>Categorical Algebra & Homotopy Theory</h2>
 **Xi'an Jiaotong-Liverpool University** (09/2025 - Expected 06/2026) | *Advisor: Prof. Alastair Darby*  
 - Conducted systematic study of algebraic topology and homotopy theory, developing understanding of fundamental groups, groupoids, covering spaces, and simplicial homology
 - Explored connections between category theory and algebraic topology, examining equivalence between van Kampen theorem and groupoid formulations
@@ -48,7 +48,7 @@ You can find my CV here: [Hongwei.Wang CV, 11/09/25 updated](../assets/CV.pdf). 
 
 <br>
 
-### Visiting Scholar in Algebraic Topology
+<h2>Visiting Scholar in Algebraic Topology</h2>
 **Westlake University** (09/2025 - Expected 03/2026) | *Advisor: Prof. Xing Gu*  
 - Attended graduate-level algebraic topology seminars weekly, deepening understanding of advanced topics
 - Studied basic homotopy theory under supervision, conducting undergraduate thesis work
@@ -57,7 +57,7 @@ You can find my CV here: [Hongwei.Wang CV, 11/09/25 updated](../assets/CV.pdf). 
 
 <br>
 
-### Global Mathematics Students' Summer School
+<h2>Global Mathematics Students' Summer School</h2>
 **Westlake University** (06/2025 - 07/2025) | *Organizer: Prof. Huayi Chen*  
 - Participated in intensive summer program with daily mathematics discussion sessions
 - Studied fundamental structures across multiple fields: **information geometry**, **algebraic geometry**, **algebraic number theory**, **elliptic PDE regularity theory**, and **modular forms**
@@ -66,7 +66,7 @@ You can find my CV here: [Hongwei.Wang CV, 11/09/25 updated](../assets/CV.pdf). 
 
 <br>
 
-### Undergraduate Category Theory Seminar
+<h2>Undergraduate Category Theory Seminar</h2>
 **Xi'an Jiaotong-Liverpool University** (02/2025 - 05/2025) | *Organizer: Prof. Adam-Chrisiaan von*  
 - Mastered category theory fundamentals: categories, functors, natural transformations, limits, representable functors, and Yoneda lemma
 - Delivered special lecture on representable functors and Yoneda lemma as student lecturer
@@ -75,7 +75,7 @@ You can find my CV here: [Hongwei.Wang CV, 11/09/25 updated](../assets/CV.pdf). 
 
 <br>
 
-### XJTLU Winter Pure Math Seminar [[poster]](../assets/seminar.pdf) 
+<h2>XJTLU Winter Pure Math Seminar [[poster]](../assets/seminar.pdf)</h2> 
 **Xi'an Jiaotong-Liverpool University ** (12/2024 - 01/2025) | *Organizer: Stud. Hongwei Wang*  
 - Mastered category theory fundamentals: categories, functors, natural transformations, limits, representable functors, and Yoneda lemma
 - Delivered special lecture on representable functors and Yoneda lemma as student lecturer
@@ -84,7 +84,7 @@ You can find my CV here: [Hongwei.Wang CV, 11/09/25 updated](../assets/CV.pdf). 
 <br>
 
 
-### Analytic Number Theory Study
+<h2>Analytic Number Theory Study</h2>
 **Xi'an Jiaotong-Liverpool University** (06/2024 - 09/2024) | *Advisor: Prof. Pietro Sgobba*  
 - Studied Tom M. Apostol's *Introduction to Analytic Number Theory*, mastering arithmetical functions and Chebyshev estimates
 - Learned elementary forms of Prime Number Theorem through guided study
@@ -96,7 +96,7 @@ You can find my CV here: [Hongwei.Wang CV, 11/09/25 updated](../assets/CV.pdf). 
 
 ## Academic Projects
 
-### AI in Mathematics Learning Workshop
+<h2>AI in Mathematics Learning Workshop</h2>
 **Xi'an Jiaotong-Liverpool University** (10/2024 - 04/2025) | *Advisor: Prof. Jinsong Xu*  
 - Designed and coordinated six-month study applying generative programming to pure mathematics
 - Developed interactive learning tools for **complex analysis**, **abstract algebra**, and **topology**
@@ -107,7 +107,7 @@ You can find my CV here: [Hongwei.Wang CV, 11/09/25 updated](../assets/CV.pdf). 
 
 <br>
 
-### Stellar Cluster Analysis Project
+<h2>Stellar Cluster Analysis Project</h2>
 **Xi'an Jiaotong-Liverpool University** (10/2022 - 06/2023) | *Advisor: Prof. Xiaoying Pang*  
 - Processed **Gaia DR3** star catalog data using **Python** for cleaning and dimensionality reduction
 - Applied **Gaussian Mixture Model (GMM)** to identify member stars of Beehive Cluster
