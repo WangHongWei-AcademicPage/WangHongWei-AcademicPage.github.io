@@ -75,8 +75,8 @@ You can find my CV here: [Hongwei.Wang CV, 11/09/25 updated](../assets/CV.pdf). 
 
 <br>
 
-<h2>XJTLU Winter Pure Math Seminar</h2> [[poster]](../assets/seminar.pdf)
-**Xi'an Jiaotong-Liverpool University ** (12/2024 - 01/2025) | *Organizer: Stud. Hongwei Wang*  
+<h2>XJTLU Winter Pure Math Seminar <a href="../assets/seminar.pdf">[poster]</a></h2>
+<p><strong>Xi'an Jiaotong-Liverpool University</strong> (12/2024 - 01/2025) | <em>Organizer: Stud. Hongwei Wang</em></p>
 - Independently sourced guest lecturers, orchestrated the seminar schedule and topics, and designed promotional posters, subsequently securing official endorsement from the School.
 - Delivered an in-depth lecture on Galois theory, guiding the audience from its historical origins in solving polynomial equations to its profound conclusion: the unsolvability of the quintic by radicals. The talk meticulously detailed the construction of the Galois group for a polynomial and explained the fundamental Galois correspondence between subfields of a field extension and subgroups of its Galois group. 
 - Seminar included functional analysis, measure theory, and topology, etc. The program also featured specialized sessions on spectral graph theory and another advanced topic. All session recordings were uploaded to social media platforms, where they garnered significant positive feedback and extensive viewership.
