@@ -75,8 +75,8 @@ You can find my CV here: [Hongwei.Wang CV, 11/09/25 updated](../assets/CV.pdf). 
 
 <br>
 
-### XJTLU Winter Pure Math Seminar
-**Xi'an Jiaotong-Liverpool University ** (12/2024 - 01/2025) | *Organizer: Stud. Hongwei Wang*  [[poster]](../assets/seminar.pdf) 
+### XJTLU Winter Pure Math Seminar [[poster]](../assets/seminar.pdf) 
+**Xi'an Jiaotong-Liverpool University ** (12/2024 - 01/2025) | *Organizer: Stud. Hongwei Wang*  
 - Mastered category theory fundamentals: categories, functors, natural transformations, limits, representable functors, and Yoneda lemma
 - Delivered special lecture on representable functors and Yoneda lemma as student lecturer
 - Explained abstract categorical constructions using concrete examples from algebra and topology
