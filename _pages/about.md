@@ -75,6 +75,15 @@ You can find my CV here: [Hongwei.Wang CV, 11/09/25 updated](../assets/CV.pdf). 
 
 <br>
 
+### XJTLU Winter Pure Math Seminar
+**Xi'an Jiaotong-Liverpool University** (12/2024 - 01/2025) | *Organizer: Stud. Hongwei Wang*  
+- Mastered category theory fundamentals: categories, functors, natural transformations, limits, representable functors, and Yoneda lemma
+- Delivered special lecture on representable functors and Yoneda lemma as student lecturer
+- Explained abstract categorical constructions using concrete examples from algebra and topology
+- Illustrated concepts through set representations, group actions, and category of presheaves
+<br>
+
+
 ### Analytic Number Theory Study
 **Xi'an Jiaotong-Liverpool University** (06/2024 - 09/2024) | *Advisor: Prof. Pietro Sgobba*  
 - Studied Tom M. Apostol's *Introduction to Analytic Number Theory*, mastering arithmetical functions and Chebyshev estimates
