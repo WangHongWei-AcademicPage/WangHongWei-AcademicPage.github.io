@@ -5,63 +5,298 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<p style="line-height: 1.6; margin-bottom: 2em;">As a <strong>student teaching assistant</strong> in the Pure Mathematics department of School of Mathematics and Physics, XJTLU, I was responsible for teaching MTH122 Abstract Algebra. Additionally, as an <strong>Academic Navigator</strong> in the School of Mathematics and Physics, I regularly conducted knowledge consolidation lectures and provided academic support to fellow students. Prior to these roles, I served as a <strong>lecturer for the XJTLU Mathematics Society</strong>, delivering algebra midterm and final review sessions for all mathematics majors.<br><br>
-I have always adhered to the learning philosophy that <strong>"the best way to truly understand a problem is to explain it clearly to others"</strong>, and I have greatly benefited from this output-oriented approach to learning. You can explore all my undergraduate teaching engagements on this page.</p>
+<style>
+.teaching-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
 
-<h2 style="font-size: 1.4em; margin-bottom: 1em; border-bottom: 2px solid #eee; padding-bottom: 0.3em;">Teaching Experience</h2>
+.intro-text {
+  line-height: 1.6;
+  margin-bottom: 3rem;
+  color: #495057;
+}
 
-<div class="publications">
-  <div class="publication-item">
-    <h3 style="font-size: 1.4em; margin-bottom: 0.5em;">
-      Student Teaching Assistant - Abstract Algebra (MTH122) 
-      <a href="../assets/ta.pdf" style="font-size: inherit;">[certificate]</a> 
-    </h3>
-    <p><strong>Pure Mathematics Department, School of Mathematics and Physics, XJTLU</strong> | <em>09/2024 - 06/2025</em></p>
-    <p>As a teaching assistant for the Abstract Algebra course, I supported the instructor's teaching duties and tutored students on problem sets. During the weekly Wednesday Help Center sessions organized by the school, I served as a tutor, leading discussions and helping students broaden their academic perspective in the field of algebra.</p>
-  </div>
+.intro-text p {
+  margin-bottom: 1.5rem;
+}
 
-  <div class="publication-item">
-    <h3 style="font-size: 1.4em; margin-bottom: 0.5em;">Mathematics Academic Navigator
-      <a href="../assets/na.pdf" style="font-size: inherit;">[certificate]</a> 
-    </h3>
-    <p><strong>School of Mathematics and Physics, XJTLU</strong> | <em>01/2024 - 12/2024</em></p>
-    <p>As an Academic Navigator appointed by the School, I led regular review sessions to help students consolidate classroom learning. I authored and distributed original practice problems, complete with guided solutions. Additionally, I provided supplementary academic support beyond official office hours, actively addressing challenging course concepts to foster a collaborative learning environment for mutual progress.</p>
-  </div>
+.teaching-card {
+  background: white;
+  border-radius: 8px;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  border-left: 4px solid #2c3e50;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+  border: 1px solid #e9ecef;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
 
+.teaching-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+}
+
+.teaching-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100px;
+  height: 100px;
+  background: radial-gradient(circle, #3498db 0%, transparent 70%);
+  opacity: 0.05;
+  transition: opacity 0.3s ease;
+}
+
+.teaching-card:hover::before {
+  opacity: 0.1;
+}
+
+.teaching-header {
+  margin-bottom: 1rem;
+}
+
+.teaching-title {
+  color: #3498db;
+  margin: 0 0 0.5rem 0;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.teaching-title a {
+  color: #3498db;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.teaching-title a:hover {
+  color: #2c3e50;
+  text-decoration: underline;
+}
+
+.certificate-link {
+  color: #3498db;
+  text-decoration: none;
+  font-weight: 500;
+  margin-left: 0.5rem;
+  transition: all 0.3s ease;
+}
+
+.certificate-link:hover {
+  color: #2c3e50;
+  text-decoration: underline;
+}
+
+.teaching-meta {
+  color: #2c3e50;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+}
+
+.teaching-date {
+  color: #6c757d;
+  font-style: italic;
+  margin-bottom: 0.8rem;
+}
+
+.teaching-description {
+  color: #495057;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.teaching-description strong {
+  color: #2c3e50;
+}
+
+.video-card {
+  background: white;
+  border-radius: 8px;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  border-left: 4px solid #2c3e50;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+  border: 1px solid #e9ecef;
+  transition: all 0.3s ease;
+}
+
+.video-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+}
+
+.video-title {
+  color: #3498db;
+  margin: 0 0 0.8rem 0;
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.video-title a {
+  color: #3498db;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.video-title a:hover {
+  color: #2c3e50;
+  text-decoration: underline;
+}
+
+.video-meta {
+  color: #6c757d;
+  font-style: italic;
+  margin-bottom: 0.5rem;
+}
+
+.video-description {
+  color: #495057;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.fade-in {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all 0.6s ease;
+}
+
+.fade-in.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.section-title {
+  color: #2c3e50;
+  border-bottom: 2px solid #2c3e50;
+  padding-bottom: 0.5rem;
+  margin: 3rem 0 1.5rem 0;
+  font-weight: 600;
+}
+
+.section-title:first-of-type {
+  margin-top: 2rem;
+}
+
+@media (max-width: 768px) {
+  .teaching-container {
+    padding: 0 15px;
+  }
   
+  .teaching-card, .video-card {
+    padding: 1.5rem;
+  }
+  
+  .teaching-title, .video-title {
+    font-size: 1.2rem;
+  }
+}
+</style>
 
-  <div class="publication-item">
-    <h3 style="font-size: 1.4em; margin-bottom: 0.5em;">University-Appointed Math Club Student Lecturer
-    <a href="../assets/let.pdf" style="font-size: inherit;">[certificate]</a> 
-    </h3>
-    <p><strong>Math Club, School of Mathematics and Physics, XJTLU</strong> | <em>10/2022 - 06/2024</em></p>
-    <p>As a Student Lecturer, I organized comprehensive review sessions for the entire mathematics student cohort. Focusing on the algebra stream, I conducted lectures for Linear Algebra, Advanced Linear Algebra, and Abstract Algebra to prepare students for their midterm and final examinations. The sessions were designed to reinforce difficult concepts and solidify semester-long learning.</p>
+<div class="teaching-container">
+  <div class="intro-text">
+    <p>As a <strong>student teaching assistant</strong> in the Pure Mathematics department of School of Mathematics and Physics, XJTLU, I was responsible for teaching MTH122 Abstract Algebra. Additionally, as an <strong>Academic Navigator</strong> in the School of Mathematics and Physics, I regularly conducted knowledge consolidation lectures and provided academic support to fellow students. Prior to these roles, I served as a <strong>lecturer for the XJTLU Mathematics Society</strong>, delivering algebra midterm and final review sessions for all mathematics majors.</p>
+    
+    <p>I have always adhered to the learning philosophy that <strong>"the best way to truly understand a problem is to explain it clearly to others"</strong>, and I have greatly benefited from this output-oriented approach to learning. You can explore all my undergraduate teaching engagements on this page.</p>
+  </div>
+
+  <h2 class="section-title">Teaching Experience</h2>
+
+  <div class="teaching-card fade-in">
+    <div class="teaching-header">
+      <h3 class="teaching-title">
+        Student Teaching Assistant - Abstract Algebra (MTH122)
+        <a href="../assets/ta.pdf" class="certificate-link">[certificate]</a>
+      </h3>
+    </div>
+    <div class="teaching-meta">Pure Mathematics Department, School of Mathematics and Physics, XJTLU</div>
+    <div class="teaching-date">09/2024 - 06/2025</div>
+    <p class="teaching-description">As a teaching assistant for the Abstract Algebra course, I supported the instructor's teaching duties and tutored students on problem sets. During the weekly Wednesday Help Center sessions organized by the school, I served as a tutor, leading discussions and helping students broaden their academic perspective in the field of algebra.</p>
+  </div>
+
+  <div class="teaching-card fade-in">
+    <div class="teaching-header">
+      <h3 class="teaching-title">
+        Mathematics Academic Navigator
+        <a href="../assets/na.pdf" class="certificate-link">[certificate]</a>
+      </h3>
+    </div>
+    <div class="teaching-meta">School of Mathematics and Physics, XJTLU</div>
+    <div class="teaching-date">01/2024 - 12/2024</div>
+    <p class="teaching-description">As an Academic Navigator appointed by the School, I led regular review sessions to help students consolidate classroom learning. I authored and distributed original practice problems, complete with guided solutions. Additionally, I provided supplementary academic support beyond official office hours, actively addressing challenging course concepts to foster a collaborative learning environment for mutual progress.</p>
+  </div>
+
+  <div class="teaching-card fade-in">
+    <div class="teaching-header">
+      <h3 class="teaching-title">
+        University-Appointed Math Club Student Lecturer
+        <a href="../assets/let.pdf" class="certificate-link">[certificate]</a>
+      </h3>
+    </div>
+    <div class="teaching-meta">Math Club, School of Mathematics and Physics, XJTLU</div>
+    <div class="teaching-date">10/2022 - 06/2024</div>
+    <p class="teaching-description">As a Student Lecturer, I organized comprehensive review sessions for the entire mathematics student cohort. Focusing on the algebra stream, I conducted lectures for Linear Algebra, Advanced Linear Algebra, and Abstract Algebra to prepare students for their midterm and final examinations. The sessions were designed to reinforce difficult concepts and solidify semester-long learning.</p>
+  </div>
+
+  <h2 class="section-title">Teaching Videos</h2>
+
+  <div class="video-card fade-in">
+    <div class="teaching-header">
+      <h3 class="video-title"><a href="https://www.bilibili.com/video/BV1pp4y1R7yQ/?spm_id_from=333.1387.upload.video_card.click" target="_blank">Math Club Final Review - Advanced Linear Algebra (Part 1)</a></h3>
+      <div class="video-meta">January 2024</div>
+    </div>
+    <div class="teaching-meta">School of Mathematics and Physics, XJTLU</div>
+    <p class="video-description">This two-part final review series for Advanced Linear Algebra provided a comprehensive overview of the course's core concepts. The lectures focused on complex topics including vector spaces, linear transformations, eigenvalues and eigenvectors, and diagonalization, offering students strategic approaches to problem-solving and exam preparation through worked examples and clear explanations.</p>
+  </div>
+
+  <div class="video-card fade-in">
+    <div class="teaching-header">
+      <h3 class="video-title"><a href="https://www.bilibili.com/video/BV1iK41147kD/?spm_id_from=333.1387.upload.video_card.click" target="_blank">Math Club Final Review - Advanced Linear Algebra (Part 2)</a></h3>
+      <div class="video-meta">January 2024</div>
+    </div>
+    <div class="teaching-meta">School of Mathematics and Physics, XJTLU</div>
+    <p class="video-description">This two-part final review series for Advanced Linear Algebra provided a comprehensive overview of the course's core concepts. The lectures focused on complex topics including vector spaces, linear transformations, eigenvalues and eigenvectors, and diagonalization, offering students strategic approaches to problem-solving and exam preparation through worked examples and clear explanations.</p>
+  </div>
+
+  <div class="video-card fade-in">
+    <div class="teaching-header">
+      <h3 class="video-title"><a href="https://www.bilibili.com/video/BV1LA411S7k7/?spm_id_from=333.1387.upload.video_card.click" target="_blank">Math Club Final Review - Linear Algebra</a></h3>
+      <div class="video-meta">January 2023</div>
+    </div>
+    <div class="teaching-meta">School of Mathematics and Physics, XJTLU</div>
+    <p class="video-description">A comprehensive final review session covering the complete Linear Algebra curriculum. This lecture systematically revisited fundamental concepts including matrix operations, determinants, vector spaces, and linear transformations, providing students with effective strategies for final examination preparation and a holistic understanding of the subject.</p>
+  </div>
+
+  <div class="video-card fade-in">
+    <div class="teaching-header">
+      <h3 class="video-title"><a href="https://www.bilibili.com/video/BV128411a7ko/?spm_id-from=333.1387.upload.video_card.click" target="_blank">Math Club Midterm Review - Linear Algebra</a></h3>
+      <div class="video-meta">October 2022</div>
+    </div>
+    <div class="teaching-meta">School of Mathematics and Physics, XJTLU</div>
+    <p class="video-description">This midterm review session focused on the first half of the Linear Algebra course, emphasizing core topics such as systems of linear equations, matrix algebra, and vector geometry. The lecture aimed to solidify students' foundational knowledge and problem-solving skills ahead of the midterm assessment.</p>
   </div>
 </div>
 
-
-<h2 style="font-size: 1.4em; margin-bottom: 1em; border-bottom: 2px solid #eee; padding-bottom: 0.3em;">Teaching Videos</h2>
-
-<div class="publication-item">
-  <h3 style="font-size: 1.4em; margin-bottom: 0.5em;"><a href="https://www.bilibili.com/video/BV1pp4y1R7yQ/?spm_id_from=333.1387.upload.video_card.click" target="_blank" style="font-size: inherit;">Math Club Final Review - Advanced Linear Algebra (Part 1)</a> <em>(01/2024)</em></h3>
-  <h3 style="font-size: 1.4em; margin-bottom: 0.5em;"><a href="https://www.bilibili.com/video/BV1iK41147kD/?spm_id_from=333.1387.upload.video_card.click" target="_blank" style="font-size: inherit;">Math Club Final Review - Advanced Linear Algebra (Part 2)</a> <em>(01/2024)</em></h3>
-  <p><strong>School of Mathematics and Physic, XJTLU</strong></p>
-  <p>This two-part final review series for Advanced Linear Algebra provided a comprehensive overview of the course's core concepts. The lectures focused on complex topics including vector spaces, linear transformations, eigenvalues and eigenvectors, and diagonalization, offering students strategic approaches to problem-solving and exam preparation through worked examples and clear explanations.</p>
-</div>
-
-<div class="publication-item">
-  <h3 style="font-size: 1.4em; margin-bottom: 0.5em;"><a href="https://www.bilibili.com/video/BV1LA411S7k7/?spm_id_from=333.1387.upload.video_card.click" target="_blank" style="font-size: inherit;">Math Club Final Review - Linear Algebra</a> <em>(01/2023)</em></h3>
-  <p><strong>School of Mathematics and Physic, XJTLU</strong></p>
-  <p>A comprehensive final review session covering the complete Linear Algebra curriculum. This lecture systematically revisited fundamental concepts including matrix operations, determinants, vector spaces, and linear transformations, providing students with effective strategies for final examination preparation and a holistic understanding of the subject.</p>
-</div>
-
-<div class="publication-item">
-  <h3 style="font-size: 1.4em; margin-bottom: 0.5em;"><a href="https://www.bilibili.com/video/BV128411a7ko/?spm_id-from=333.1387.upload.video_card.click" target="_blank" style="font-size: inherit;">Math Club Midterm Review - Linear Algebra</a> <em>(10/2022)</em></h3>
-  <p><strong>School of Mathematics and Physic, XJTLU</strong></p>
-  <p>This midterm review session focused on the first half of the Linear Algebra course, emphasizing core topics such as systems of linear equations, matrix algebra, and vector geometry. The lecture aimed to solidify students' foundational knowledge and problem-solving skills ahead of the midterm assessment.</p>
-</div>
-
-
-
-
-
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const fadeElements = document.querySelectorAll('.fade-in');
+  
+  const fadeObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+      }
+    });
+  }, { threshold: 0.1 });
+  
+  fadeElements.forEach(element => {
+    fadeObserver.observe(element);
+  });
+});
+</script>
