@@ -266,14 +266,13 @@ redirect_from:
 
 <div class="academic-container">
   <div class="profile-content">
-    <p>I'm a year 4 undergraduate student from <a href="https://www.xjtlu.edu.cn/zh/study/departments/school-of-mathematics-and-physics">School of Mathematics and Physics</a>, <a href="https://www.xjtlu.edu.cn/">Xi'an Jiaotong-Liverpool University(XJTLU)</a>.</p>
+<p>I'm a year 4 undergraduate student from <a href="https://www.xjtlu.edu.cn/zh/study/departments/school-of-mathematics-and-physics">School of Mathematics and Physics</a>, <a href="https://www.xjtlu.edu.cn/">Xi'an Jiaotong-Liverpool University(XJTLU)</a>.</p>
 
-    <p>As a pure mathematics student, I focus on Algebraic Topology and Homotopy Theory, with extending interests in Homotopy Type Theory and formal verification of mathematics using the Lean Theorem Prover.</p>
+<p>As a <strong>pure mathematics</strong> student, I focus on <strong>Algebraic Topology and Homotopy Theory</strong>, with extending interests in <strong>Homotopy Type Theory</strong> and formal verification of mathematics using the <strong>Lean Theorem Prover</strong>.</p>
 
-    <p>You can find my CV here: <a href="../assets/CV.pdf">Hongwei.Wang CV, 11/09/25 updated</a>. The attached document is a reverse-chronological summary of my study. You can also read the content in this website for a detailed narrative of my study and experiences.</p>
+<p>You can find my CV here: <a href="../assets/CV.pdf"><strong>Hongwei.Wang CV, 11/09/25 updated</strong></a>. The attached document is a <strong>reverse-chronological summary</strong> of my study. You can also read the content in this website for a <strong>detailed narrative</strong> of my study and experiences.</p>
 
-    <p>On this website, you can explore my undergraduate works, academic talks, teaching experience and academic portfolio via the links in the navigation bar above. If my academic pursuits align with your interests, please feel free to contact me:</p>
-    
+<p>On this website, you can explore my <strong>undergraduate works</strong>, <strong>academic talks</strong>, <strong>teaching experience</strong> and my <strong>odyssey-like pure math exploration journey</strong> via the links in the navigation bar above. If my academic pursuits align with your interests, please feel free to contact me:</p>
     <div class="contact-info">
       <a href="mailto:1972396871@qq.com" class="contact-email">1972396871@qq.com</a>
       <a href="mailto:Hongwei.wang22@student.xjtlu.edu.cn" class="contact-email">Hongwei.wang22@student.xjtlu.edu.cn</a>
