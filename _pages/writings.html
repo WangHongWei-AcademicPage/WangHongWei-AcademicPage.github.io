@@ -5,42 +5,248 @@ permalink: /writings/
 author_profile: true
 ---
 
-<p style="line-height: 1.6; margin-bottom: 2em;">This page showcases my undergraduate academic work, including study reports, literature reviews, and personal lecture notes. You will find a brief introduction for each piece. If any topic piques your interest, please feel free to read the full text via the provided link.<br><br>
-I would be sincerely grateful if you could contact me should you identify any mathematical inaccuracies or writing errors. Furthermore, if my work sparks your interest, please do not hesitate to reach out via my personal email at <a href="mailto:1972396871@qq.com">1972396871@qq.com</a> or my official email at <a href="mailto:Hongwei.wang22@student.xjtlu.edu.cn">Hongwei.wang22@student.xjtlu.edu.cn</a>. very appreciate.</p>
+<style>
+.writings-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
 
-<div class="publications">
-  <div class="publication-item" style="margin-bottom: 2.5em;">
-    <h3 style="font-size: 1.4em; margin-bottom: 0.5em;"><a href="../assets/categorical_algebra_homotopy_theory.pdf" style="font-size: inherit;">Categorical Algebra and Homotopy Theory</a> <em>(In progress)</em></h3>
-    <p style="line-height: 1.5; margin-top: 0.5em;">This work introduces the fundamental concepts of algebraic topology from a categorical perspective, providing a natural motivation for the study of homotopy theory. It builds a bridge between fundamental groups and fundamental groupoids, concretely demonstrated by proving the categorical equivalence of the van Kampen theorem under its colimit formulations for groupoids versus groups. The work further categorifies covering space theory, establishing an isomorphism between the fundamental groupoids of covering spaces and the structures of Galois theory, thereby deepening the categorical language of algebraic topology. It also provides an introduction to homotopy theory and homotopy type theory, undertaking initial steps in formalizing some of these foundations using the Lean theorem prover.</p>
+.intro-text {
+  line-height: 1.6;
+  margin-bottom: 3rem;
+  color: #495057;
+}
+
+.intro-text p {
+  margin-bottom: 1.5rem;
+}
+
+.contact-links {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin: 1.5rem 0;
+}
+
+.contact-email {
+  background: #f8f9fa;
+  padding: 0.6rem 1.2rem;
+  border-radius: 6px;
+  text-decoration: none;
+  color: #2c3e50;
+  border: 1px solid #dee2e6;
+  transition: all 0.3s ease;
+  font-weight: 500;
+}
+
+.contact-email:hover {
+  background: #3498db;
+  color: white;
+  border-color: #3498db;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(52, 152, 219, 0.3);
+}
+
+.writing-card {
+  background: white;
+  border-radius: 8px;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  border-left: 4px solid #2c3e50;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+  border: 1px solid #e9ecef;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.writing-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+}
+
+.writing-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100px;
+  height: 100px;
+  background: radial-gradient(circle, #3498db 0%, transparent 70%);
+  opacity: 0.05;
+  transition: opacity 0.3s ease;
+}
+
+.writing-card:hover::before {
+  opacity: 0.1;
+}
+
+.writing-header {
+  margin-bottom: 1rem;
+}
+
+.writing-title {
+  color: #2c3e50;
+  margin: 0 0 0.5rem 0;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.writing-title a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.writing-title a:hover {
+  color: #3498db;
+}
+
+.writing-meta {
+  color: #6c757d;
+  font-style: italic;
+  margin-bottom: 0.5rem;
+}
+
+.writing-description {
+  color: #495057;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.writing-description strong {
+  color: #2c3e50;
+}
+
+.fade-in {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all 0.6s ease;
+}
+
+.fade-in.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.section-title {
+  color: #2c3e50;
+  border-bottom: 2px solid #2c3e50;
+  padding-bottom: 0.5rem;
+  margin: 2rem 0 1.5rem 0;
+  font-weight: 600;
+}
+
+@media (max-width: 768px) {
+  .writings-container {
+    padding: 0 15px;
+  }
+  
+  .writing-card {
+    padding: 1.5rem;
+  }
+  
+  .writing-title {
+    font-size: 1.2rem;
+  }
+  
+  .contact-links {
+    flex-direction: column;
+  }
+  
+  .contact-email {
+    text-align: center;
+  }
+}
+</style>
+
+<div class="writings-container">
+  <div class="intro-text">
+    <p>This page showcases my <strong>undergraduate academic work</strong>, including <strong>study reports</strong>, <strong>literature reviews</strong>, and <strong>personal lecture notes</strong>. You will find a brief introduction for each piece. If any topic piques your interest, please feel free to read the full text via the provided link.</p>
+    
+    <p>I would be sincerely grateful if you could contact me should you identify any <strong>mathematical inaccuracies</strong> or <strong>writing errors</strong>. Furthermore, if my work sparks your interest, please do not hesitate to reach out:</p>
+    
+    <div class="contact-links">
+      <a href="mailto:1972396871@qq.com" class="contact-email">1972396871@qq.com</a>
+      <a href="mailto:Hongwei.wang22@student.xjtlu.edu.cn" class="contact-email">Hongwei.wang22@student.xjtlu.edu.cn</a>
+    </div>
   </div>
 
-  <div class="publication-item" style="margin-bottom: 2.5em;">
-    <h3 style="font-size: 1.4em; margin-bottom: 0.5em;"><a href="../assets/Hausdorff_dimension.pdf" style="font-size: inherit;">Upperbound for Hausdorff Dimension of Fractals under Symmetry Group</a> <em>(05/2025)</em></h3>
-    <p style="line-height: 1.5; margin-top: 0.5em;">This work entailed a study and deep dive into fractal constructions and the definition and computation of Hausdorff dimension. It introduced the concept of fractal dimension through the classic historical problem of coastline measurement and employed Iterated Function Systems (IFS) to construct fractals, thereby introducing the concept of a fractal generating group. By analyzing geometric structures through algebraic methods, it culminated in a conjecture relating the lower bound of a fractal's Hausdorff dimension to the order of its generating group, attempting to build a bridge between fractal geometry and algebra.</p>
+  <h2 class="section-title">Publications</h2>
+
+  <div class="writing-card fade-in">
+    <div class="writing-header">
+      <h3 class="writing-title"><a href="../assets/categorical_algebra_homotopy_theory.pdf">Categorical Algebra and Homotopy Theory</a></h3>
+      <div class="writing-meta">In Progress</div>
+    </div>
+    <p class="writing-description">This work introduces the fundamental concepts of <strong>algebraic topology</strong> from a <strong>categorical perspective</strong>, providing a natural motivation for the study of <strong>homotopy theory</strong>. It builds a bridge between <strong>fundamental groups</strong> and <strong>fundamental groupoids</strong>, concretely demonstrated by proving the categorical equivalence of the <strong>van Kampen theorem</strong> under its colimit formulations for groupoids versus groups. The work further categorifies <strong>covering space theory</strong>, establishing an isomorphism between the fundamental groupoids of covering spaces and the structures of <strong>Galois theory</strong>, thereby deepening the categorical language of algebraic topology. It also provides an introduction to <strong>homotopy theory</strong> and <strong>homotopy type theory</strong>, undertaking initial steps in formalizing some of these foundations using the <strong>Lean theorem prover</strong>.</p>
   </div>
 
-  <div class="publication-item" style="margin-bottom: 2.5em;">
-    <h3 style="font-size: 1.4em; margin-bottom: 0.5em;"><a href="../assets/Ai_Driven_Code.pdf" style="font-size: inherit;">AI-Driven Python Code Generation for Solving Specific Mathematics Problems</a> <em>(04/2025)</em></h3>
-    <p style="line-height: 1.5; margin-top: 0.5em;">This project explored a method of assisting mathematical learning through AI-generated code. By formulating precise prompts based on specific problems, I designed and implemented simple Python programs to deepen the understanding of abstract concepts. Key implementations include: a machine learning model to analyze winning strategies in the K₅ graph game related to Ramsey's Theorem; a 2D visualization tool for holomorphic functions in four dimensions with automatic singularity detection; and a program that visualizes scalar fields and automatically computes and plots their corresponding gradient vector fields. The inspiration for all programs stemmed from challenges encountered in coursework, and their development significantly enhanced my comprehension of the underlying mathematical theory.</p>
+  <div class="writing-card fade-in">
+    <div class="writing-header">
+      <h3 class="writing-title"><a href="../assets/Hausdorff_dimension.pdf">Upperbound for Hausdorff Dimension of Fractals under Symmetry Group</a></h3>
+      <div class="writing-meta">May 2025</div>
+    </div>
+    <p class="writing-description">This work entailed a study and deep dive into <strong>fractal constructions</strong> and the definition and computation of <strong>Hausdorff dimension</strong>. It introduced the concept of fractal dimension through the classic historical problem of <strong>coastline measurement</strong> and employed <strong>Iterated Function Systems (IFS)</strong> to construct fractals, thereby introducing the concept of a <strong>fractal generating group</strong>. By analyzing geometric structures through algebraic methods, it culminated in a conjecture relating the <strong>lower bound of a fractal's Hausdorff dimension</strong> to the <strong>order of its generating group</strong>, attempting to build a bridge between <strong>fractal geometry</strong> and <strong>algebra</strong>.</p>
   </div>
 
-  <div class="publication-item" style="margin-bottom: 2.5em;">
-    <h3 style="font-size: 1.4em; margin-bottom: 0.5em;"><a href="../assets/Futurama.pdf" style="font-size: inherit;">Futurama Theorem: Group and permutations in body changing problem</a> <em>(03/2025)</em></h3>
-    <p style="line-height: 1.5; margin-top: 0.5em;">As a student teaching assistant, I created and delivered a lecture based on a group theory permutation problem from the animated series Futurama, specifically the "mind-switching" dilemma. This approach was designed to help students new to abstract algebra deepen their understanding of group structures and permutations. The lecture included a full solution to the problem and concluded with a related exercise for further student practice.</p>
+  <div class="writing-card fade-in">
+    <div class="writing-header">
+      <h3 class="writing-title"><a href="../assets/Ai_Driven_Code.pdf">AI-Driven Python Code Generation for Solving Specific Mathematics Problems</a></h3>
+      <div class="writing-meta">April 2025</div>
+    </div>
+    <p class="writing-description">This project explored a method of assisting mathematical learning through <strong>AI-generated code</strong>. By formulating precise prompts based on specific problems, I designed and implemented simple <strong>Python programs</strong> to deepen the understanding of abstract concepts. Key implementations include: a <strong>machine learning model</strong> to analyze winning strategies in the K₅ graph game related to <strong>Ramsey's Theorem</strong>; a <strong>2D visualization tool</strong> for holomorphic functions in four dimensions with automatic singularity detection; and a program that visualizes <strong>scalar fields</strong> and automatically computes and plots their corresponding <strong>gradient vector fields</strong>. The inspiration for all programs stemmed from challenges encountered in coursework, and their development significantly enhanced my comprehension of the underlying mathematical theory.</p>
   </div>
 
-  <div class="publication-item" style="margin-bottom: 2.5em;">
-    <h3 style="font-size: 1.4em; margin-bottom: 0.5em;"><a href="../assets/Introducation_to_Rings_Ideals.pdf" style="font-size: inherit;">Introduction to Commutative Algebra Rings and Ideals</a> <em>(08/2024)</em></h3>
-    <p style="line-height: 1.5; margin-top: 0.5em;">Study notes on the foundational concepts of commutative algebra, suitable as a primer for a seminar. They detail the necessary prerequisites for the subject, offering a review of groups, rings, and fields, and include a discussion of various special types of ideals.</p>
+  <div class="writing-card fade-in">
+    <div class="writing-header">
+      <h3 class="writing-title"><a href="../assets/Futurama.pdf">Futurama Theorem: Group and permutations in body changing problem</a></h3>
+      <div class="writing-meta">March 2025</div>
+    </div>
+    <p class="writing-description">As a student teaching assistant, I created and delivered a lecture based on a <strong>group theory permutation problem</strong> from the animated series Futurama, specifically the "mind-switching" dilemma. This approach was designed to help students new to <strong>abstract algebra</strong> deepen their understanding of <strong>group structures</strong> and <strong>permutations</strong>. The lecture included a full solution to the problem and concluded with a related exercise for further student practice.</p>
   </div>
 
-  <div class="publication-item" style="margin-bottom: 2.5em;">
-    <h3 style="font-size: 1.4em; margin-bottom: 0.5em;"><a href="../assets/main.pdf" style="font-size: inherit;">Poster of Visualization of The Distribution of Primes</a> <em>(08/2024)</em></h3>
-    <p style="line-height: 1.5; margin-top: 0.5em;">A large-scale visualization project on prime number spirals. Utilizing Python, it generates Sacks, Ulam, and other prime spirals over extensive numerical ranges to investigate prime distribution patterns at a large scale and analyze their underlying structures. The project also involves computing prime-rich polynomials, specifically evaluating the prime density of famous cases like Euler's polynomial n² + n + 41.</p>
+  <div class="writing-card fade-in">
+    <div class="writing-header">
+      <h3 class="writing-title"><a href="../assets/Introducation_to_Rings_Ideals.pdf">Introduction to Commutative Algebra Rings and Ideals</a></h3>
+      <div class="writing-meta">August 2024</div>
+    </div>
+    <p class="writing-description">Study notes on the foundational concepts of <strong>commutative algebra</strong>, suitable as a primer for a seminar. They detail the necessary prerequisites for the subject, offering a review of <strong>groups, rings, and fields</strong>, and include a discussion of various <strong>special types of ideals</strong>.</p>
   </div>
 
-  <div class="publication-item" style="margin-bottom: 2.5em;">
-    <h3 style="font-size: 1.4em; margin-bottom: 0.5em;"><a href="../assets/Arithmatical_Functions.pdf" style="font-size: inherit;">Arithmetical Functions of Elementary Theorems on The Distribution of Primes</a> <em>(07/2024)</em></h3>
-    <p style="line-height: 1.5; margin-top: 0.5em;">These are comprehensive study notes on Tom Apostol's Introduction to Analytic Number Theory. They meticulously document all essential arithmetic functions used in the field and cover classic theorems on the distribution of prime numbers. The notes serve as a dictionary of analytic number theory functions, providing detailed definitions and explanations for each. The latter part discusses the asymptotic approximation of the prime-counting function.</p>
+  <div class="writing-card fade-in">
+    <div class="writing-header">
+      <h3 class="writing-title"><a href="../assets/main.pdf">Poster of Visualization of The Distribution of Primes</a></h3>
+      <div class="writing-meta">August 2024</div>
+    </div>
+    <p class="writing-description">A large-scale visualization project on <strong>prime number spirals</strong>. Utilizing <strong>Python</strong>, it generates <strong>Sacks, Ulam, and other prime spirals</strong> over extensive numerical ranges to investigate prime distribution patterns at a large scale and analyze their underlying structures. The project also involves computing <strong>prime-rich polynomials</strong>, specifically evaluating the prime density of famous cases like <strong>Euler's polynomial n² + n + 41</strong>.</p>
+  </div>
+
+  <div class="writing-card fade-in">
+    <div class="writing-header">
+      <h3 class="writing-title"><a href="../assets/Arithmatical_Functions.pdf">Arithmetical Functions of Elementary Theorems on The Distribution of Primes</a></h3>
+      <div class="writing-meta">July 2024</div>
+    </div>
+    <p class="writing-description">These are comprehensive study notes on Tom Apostol's <strong>Introduction to Analytic Number Theory</strong>. They meticulously document all essential <strong>arithmetic functions</strong> used in the field and cover classic theorems on the <strong>distribution of prime numbers</strong>. The notes serve as a dictionary of analytic number theory functions, providing detailed definitions and explanations for each. The latter part discusses the <strong>asymptotic approximation of the prime-counting function</strong>.</p>
   </div>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const fadeElements = document.querySelectorAll('.fade-in');
+  
+  const fadeObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+      }
+    });
+  }, { threshold: 0.1 });
+  
+  fadeElements.forEach(element => {
+    fadeObserver.observe(element);
+  });
+});
+</script>
