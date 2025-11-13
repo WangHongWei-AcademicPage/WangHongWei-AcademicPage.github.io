@@ -285,14 +285,14 @@ redirect_from:
   <div class="timeline-item fade-in" onclick="window.open('https://www.xjtlu.edu.cn/zh/study/departments/school-of-mathematics-and-physics', '_blank')" style="cursor: pointer; border-left-color: #2c3e50;">
     <strong>B.Sc. in Mathematics and Applied Mathematics (09/2022 - Expected 06/2026)</strong><br>
     School of Mathematics and Physics, Xi'an Jiaotong-Liverpool University (XJTLU), Suzhou, China
-    <div style="margin-top: 8px; font-size: 0.9em; color: #3498db;">
+    <div style="margin-top: 8px; font-size: 0.9em; color: #2c3e50;">
       → Click to visit XJTLU School of Mathematics and Physics
     </div>
   </div>
   <div class="timeline-item fade-in" onclick="window.open('https://its.westlake.edu.cn', '_blank')" style="cursor: pointer; border-left-color: #2c3e50;">
     <strong>Visiting Scholar in Westlake University (09/2025 - Expected 03/2026)</strong><br>
     Prof. Gu Xing's Group, Institute for Theoretical Sciences, Westlake University, Hangzhou, China
-    <div style="margin-top: 8px; font-size: 0.9em; color: #3498db;">
+    <div style="margin-top: 8px; font-size: 0.9em; color: #2c3e50;">
       → Click to visit Westlake University Institute for Theoretical Sciences
     </div>
   </div>
