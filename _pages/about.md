@@ -280,17 +280,24 @@ redirect_from:
     </div>
   </div>
 
-  <h2 class="section-title">Education</h2>
-  <div class="timeline">
-    <div class="timeline-item fade-in">
-      <strong>B.Sc. in Mathematics and Applied Mathematics (09/2022 - Expected 06/2026)</strong><br>
-      School of Mathematics and Physics, Xi'an Jiaotong-Liverpool University (XJTLU), Suzhou, China
-    </div>
-    <div class="timeline-item fade-in">
-      <strong>Visiting Scholar in Westlake University (09/2025 - Expected 03/2026)</strong><br>
-      Prof. GU Xing's Group, Institute for Theoretical Sciences, Westlake University, Hangzhou, China
+<h2 class="section-title">Education</h2>
+<div class="timeline">
+  <div class="timeline-item fade-in" onclick="window.open('https://www.xjtlu.edu.cn/zh/study/departments/school-of-mathematics-and-physics', '_blank')" style="cursor: pointer;">
+    <strong>B.Sc. in Mathematics and Applied Mathematics (09/2022 - Expected 06/2026)</strong><br>
+    School of Mathematics and Physics, Xi'an Jiaotong-Liverpool University (XJTLU), Suzhou, China
+    <div style="margin-top: 8px; font-size: 0.9em; color: #3498db;">
+      → Click to visit XJTLU School of Mathematics and Physics
     </div>
   </div>
+  <div class="timeline-item fade-in" onclick="window.open('https://its.westlake.edu.cn', '_blank')" style="cursor: pointer;">
+    <strong>Visiting Scholar in Westlake University (09/2025 - Expected 03/2026)</strong><br>
+    Prof. GU Xing's Group, Institute for Theoretical Sciences, Westlake University, Hangzhou, China
+    <div style="margin-top: 8px; font-size: 0.9em; color: #3498db;">
+      → Click to visit Westlake University Institute for Theoretical Sciences
+    </div>
+  </div>
+</div>
+
 
   <h2 class="section-title">Expository Writings</h2>
   <p><em>(See detailed information in the <a href="/writings">Writings</a> section)</em></p>
