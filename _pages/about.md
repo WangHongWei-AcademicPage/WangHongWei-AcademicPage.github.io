@@ -322,7 +322,7 @@ redirect_from:
       <tr class="fade-in">
         <td><strong>Categorical Algebra and Homotopy Theory</strong></td>
         <td>In Progress</td>
-        <td><a href="../assets/categorical_algebra_homotopy_theory.pdf">[PDF]</a></td>
+        <td><a href="../assets/categorical_algebra_1118.pdf">[PDF]</a></td>
       </tr>
       <tr class="fade-in">
         <td><strong>An Upper Bound for the Hausdorff Dimension of Fractals under Symmetry Group Action</strong></td>
@@ -347,7 +347,7 @@ redirect_from:
       <tr class="fade-in">
         <td><strong>Poster of Visualizing The Distribution of Prime Numbers</strong></td>
         <td>Aug 2024</td>
-        <td><a href="../assets/main.pdf">[PDF]</a></td>
+        <td><a href="../assets/poster_prime.pdf">[PDF]</a></td>
       </tr>
       <tr class="fade-in">
         <td><strong>Arithmetical Functions and Elementary Theorems on the Distribution of Primes</strong></td>
