@@ -320,7 +320,7 @@ redirect_from:
     </thead>
     <tbody>
        <tr class="fade-in">
-        <td><strong>A Unifying Framework of Galois Connections: From Adjoint Functors to Galois Theory and Covering Spaces</strong></td>
+        <td><strong>A Unifying Framework of Galois Connections: From Adjoint Functors to Galois Theory and Topological Covering Spaces</strong></td>
         <td>Dec 2025</td>
         <td><a href="../assets/Galois_Connection.pdf">[PDF]</a></td>
       </tr>
