@@ -319,6 +319,11 @@ redirect_from:
       </tr>
     </thead>
     <tbody>
+       <tr class="fade-in">
+        <td><strong>A Unifying Framework of Galois Connections: From Adjoint Functors to Galois Theory and Covering Spaces</strong></td>
+        <td>Dec 2025</td>
+        <td><a href="../assets/Galois_Connection.pdf">[PDF]</a></td>
+      </tr>
       <tr class="fade-in">
         <td><strong>Categorical Algebra and Homotopy Theory</strong></td>
         <td>In Progress</td>
