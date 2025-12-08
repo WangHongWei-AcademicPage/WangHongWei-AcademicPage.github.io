@@ -325,7 +325,7 @@ redirect_from:
         <td><a href="../assets/Galois_Connection.pdf">[PDF]</a></td>
       </tr>
       <tr class="fade-in">
-        <td><strong>Categorical Algebra and Homotopy Theory (The Homotopic Interpretation of Mathematical Proofs: a Categorical and Type-Theoretic Study of Structural Equivalence)</strong></td>
+        <td><strong>Categorical Algebra and Homotopy Theory <br>(The Homotopic Interpretation of Mathematical Proofs: a Categorical and Type-Theoretic Study of Structural Equivalence)</strong></td>
         <td>In Progress</td>
         <td><a href="../assets/categorical_algebra_1208.pdf">[PDF]</a></td>
       </tr>
