@@ -363,16 +363,18 @@ redirect_from:
   </table>
 
   <h2 class="section-title">Academic Experience</h2>
+
+  
   <div class="experience-card fade-in">
     <div class="experience-header">
       <h3 class="experience-title">Lean 4 Formalization Benchmark for 1-Category Theory</h3>
     </div>
     <div class="experience-advisor">Westlake University & Yau Mathematical Sciences Center, Tsinghua University (12/2025) | Organizer: Prof. Rongge Xu</div>
     <ul>
-      <li>Curated a comprehensive collection of classical theorems in <strong>1-Category Theory</strong>, establishing a high-quality Lean 4 dataset to evaluate the <strong>reasoning capabilities of LLMs<\strong> in abstract algebra.</li>
+      <li>Curated a comprehensive collection of classical theorems in <strong>1-Category Theory</strong>, establishing a high-quality Lean 4 dataset to evaluate the <strong>reasoning capabilities of LLMs</strong> in abstract algebra.</li>
       <li>Benchmarked state-of-the-art models including <strong>GPT-5.1</strong>, <strong>Gemini 3.0</strong>, and <strong>DeepSeek</strong> by analyzing their zero-shot and few-shot generation of formal proofs and structural definitions.</li>
       <li>Performed rigorous manual audits and refactoring of AI-generated Lean 4 code to ensure logical soundness and strict alignment with <strong>Mathlib 4</strong> library standards.</li>
-      <li> Developed a standardized pipeline for formalizing category-theoretic concepts, addressing complex proof bottlenecks related to dependent <strong>type theory and categorical constructions<\strong>.</li>
+      <li> Developed a standardized pipeline for formalizing category-theoretic concepts, addressing complex proof bottlenecks related to dependent <strong>type theory and categorical constructions</strong>.</li>
     </ul>
   </div>
 
