@@ -367,7 +367,7 @@ redirect_from:
     <div class="experience-header">
       <h3 class="experience-title">Lean 4 Formalization Benchmark for 1-Category Theory</h3>
     </div>
-    <div class="experience-advisor">Westlake University & Yau Mathematical Sciences Center, Tsinghua University (12/2025) | Organizer: Dr. Rongge Xu</div>
+    <div class="experience-advisor">Westlake University & Yau Mathematical Sciences Center, Tsinghua University (12/2025) | Organizer: Prof. Rongge Xu</div>
     <ul>
       <li><strong>Benchmark Construction:</strong> Curated a comprehensive collection of classical theorems in 1-Category Theory, establishing a high-quality Lean 4 dataset to evaluate the reasoning capabilities of LLMs in abstract algebra.</li>
       <li><strong>LLM Performance Evaluation:</strong> Benchmarked state-of-the-art models including <strong>GPT-5.1</strong>, <strong>Gemini 3.0</strong>, and <strong>DeepSeek</strong> by analyzing their zero-shot and few-shot generation of formal proofs and structural definitions.</li>
