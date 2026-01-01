@@ -180,17 +180,33 @@ author_profile: true
 
     <div class="writing-card fade-in">
   <div class="writing-header">
-    <h3 class="writing-title"><a href="../assets/Benchmark.pdf">A Unifying Framework of Galois Connections: From Adjoint Functors to Galois Theory and Topological Covering Spaces</a></h3>
+    <h3 class="writing-title"><a href="../assets/Benchmark.pdf">LeanCat: A Benchmark Suite for Formal Category Theory in Lean (Part I: 1-Categories)
+</a></h3>
     <div class="writing-meta">arXiv preprint 2025</div>
   </div>
-  <p class="writing-description">
-    This work establishes a <strong>unified categorical perspective</strong> on two classical correspondence theorems: the <strong>fundamental theorem of Galois theory</strong> and the <strong>corresponding of covering spaces with its fundamental groups</strong>. Beginning with the order-theoretic concept of <strong>Galois connections</strong> between partially ordered sets, the paper demonstrates how this notion naturally categorifies to the theory of <strong>adjoint functors</strong>.
-  </p>
-  <p class="writing-description">
-    The core contribution shows how both <strong>Galois theory</strong> in algebra and <strong>covering space classification theorem</strong> in topology emerge as concrete instances of the same abstract adjunction. The work bridges these seemingly distinct mathematical domains through the common language of <strong>category theory</strong>, making the structural parallels explicit and rigorously formalized. Accessible to undergraduates with basic knowledge of abstract algebra and algebraic topology, the paper includes a self-contained introduction to the necessary categorical foundations.
-  </p>
-</div>
 
+  <p class="writing-description">
+    This work introduces <strong>LeanCat</strong>, a benchmark suite designed to evaluate automated
+    theorem provers on <strong>formalized category theory</strong> within the Lean 4 / mathlib ecosystem.
+    Unlike existing benchmarks that focus primarily on olympiad-style or computation-heavy problems,
+    LeanCat targets <strong>library-grounded, abstraction-intensive reasoning</strong>, reflecting the way
+    modern mathematics is organized and formalized.
+  </p>
+
+  <p class="writing-description">
+    The benchmark consists of <strong>100 fully formalized theorem statements</strong> covering core areas
+    of 1-category theory, including adjunctions, limits and colimits, abelian categories, and monads.
+    Each problem is curated from standard references and research-level sources, and annotated with
+    difficulty labels through a combined <strong>human expert and LLM-assisted evaluation pipeline</strong>.
+  </p>
+
+  <p class="writing-description">
+    Experimental results demonstrate that even state-of-the-art large language models achieve low
+    success rates on LeanCat, highlighting a significant gap between natural-language reasoning and
+    <strong>robust, research-level formalization</strong>. This work aims to serve as a reusable checkpoint
+    for tracking progress in formal mathematics, proof engineering, and AI-assisted theorem proving.
+  </p>
+      
   <p class="writing-description">
     <a href="https://github.com/sciencraft/LeanCat" target="_blank">[GitHub]</a>
     &nbsp;|&nbsp;
