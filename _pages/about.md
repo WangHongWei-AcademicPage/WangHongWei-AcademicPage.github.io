@@ -307,26 +307,30 @@ redirect_from:
 }
 </style>
 
-  <h2 class="section-title">Publications</h2>
-  <p><em>(See detailed information in the <a href="/writings">Publications / Writings</a> section)</em></p>
+<h2 class="section-title">Publications</h2>
+<p><em>(See detailed information in the <a href="/writings">Publications / Writings</a> section)</em></p>
 
-  <table class="publications-table">
-    <thead>
-      <tr>
-        <th>Title</th>
-        <th>Date</th>
-        <th>Link</th>
-      </tr>
-    </thead>
-    <tbody>
-       <tr class="fade-in">
-        <td><strong>LeanCat: A Benchmark Suite for Formal Category Theory in Lean (Part I: 1-Categories)</td>
-        <td>Dec 2025</td>
-        <td><a href="../assets/Benchmark.pdf">[PDF]</a></td>
-      </tr>
-      <tr class="fade-in">
-    </tbody>
-  </table>
+<table class="publications-table">
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Date</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="fade-in">
+      <td>
+        <strong>
+          LeanCat: A Benchmark Suite for Formal Category Theory in Lean (Part I: 1-Categories)
+        </strong>
+      </td>
+      <td>Dec 2025</td>
+      <td><a href="../assets/Benchmark.pdf">[PDF]</a></td>
+    </tr>
+  </tbody>
+</table>
+
 
   <h2 class="section-title">Expository Writings</h2>
   <p><em>(See detailed information in the <a href="/writings">Publications / Writings</a> section)</em></p>
