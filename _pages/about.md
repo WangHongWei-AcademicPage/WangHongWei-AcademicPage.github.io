@@ -353,6 +353,39 @@ If my work aligns with your interests in mathematics, formal verification, or AI
 </table>
 
 
+
+<h2 class="section-title">Lean 4 Theorem Prover Codes</h2>
+
+<table class="publications-table">
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Date</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="fade-in">
+      <td>
+        <strong>
+          A Formalization for Categories, Functors and Natural Transformations
+        </strong>
+      </td>
+      <td>Dec 2025</td>
+      <td>
+        <div>
+          <a href="../assets/CategoryFormalization.lean.pdf" target="_blank">[PDF]</a>
+        </div>
+        <div>
+          <a href="../assets/CategoryFormalization.lean" download>[Code]</a>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
   <h2 class="section-title">Expository Writings</h2>
   <p><em>(See detailed information in the <a href="/writings">Publications / Writings</a> section)</em></p>
   
