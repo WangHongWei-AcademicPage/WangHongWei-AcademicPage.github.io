@@ -266,18 +266,39 @@ redirect_from:
 
 <div class="academic-container">
   <div class="profile-content">
-<p>I'm a year 4 undergraduate student from <a href="https://www.xjtlu.edu.cn/zh/study/departments/school-of-mathematics-and-physics">School of Mathematics and Physics</a>, <a href="https://www.xjtlu.edu.cn/">Xi'an Jiaotong-Liverpool University(XJTLU)</a>.</p>
 
-<p>As a <strong>pure mathematics</strong> student, I focus on <strong>Algebraic Topology and Homotopy Theory</strong>, with extending interests in <strong>Homotopy Type Theory</strong> and formal verification of mathematics using the <strong>Lean Theorem Prover</strong>.</p>
+<p>I'm a Year 4 undergraduate student from 
+<a href="https://www.xjtlu.edu.cn/zh/study/departments/school-of-mathematics-and-physics">School of Mathematics and Physics</a>, 
+<a href="https://www.xjtlu.edu.cn/">Xi'an Jiaotong-Liverpool University (XJTLU)</a>.</p>
 
-<p>You can find my CV here: <a href="../assets/CV.pdf"><strong>Hongwei.Wang CV, 11/09/25 updated</strong></a>. The attached document is a <strong>reverse-chronological summary</strong> of my study. You can also read the content in this website for a <strong>detailed narrative</strong> of my study and experiences.</p>
+<p>Trained as a <strong>pure mathematics</strong> student, my primary research lies in 
+<strong>Algebraic Topology and Homotopy Theory</strong>. 
+Building upon this foundation, I am actively exploring how deep structural mathematics can serve as a bridge toward 
+<strong>Formalized Mathematics</strong>, <strong>Homotopy Type Theory</strong>, and 
+<strong>AI-assisted mathematical reasoning</strong>.</p>
 
-<p>On this website, you can explore my <strong>undergraduate works</strong>, <strong>academic talks</strong>, <strong>teaching experience</strong> and my <strong>pure math exploration journey</strong> via the links in the navigation bar above. If my academic pursuits align with your interests, please feel free to contact me:</p>
-    <div class="contact-info">
-      <a href="mailto:1972396871@qq.com" class="contact-email">1972396871@qq.com</a>
-      <a href="mailto:Hongwei.wang22@student.xjtlu.edu.cn" class="contact-email">Hongwei.wang22@student.xjtlu.edu.cn</a>
-    </div>
+<p>My long-term goal is to help construct a rigorous pathway from pure mathematics to machine-verifiable knowledge systems. 
+In particular, I am interested in leveraging structural insights from algebraic topology and homotopy theory 
+to enhance AI’s capability in understanding, representing, and reasoning about complex mathematical objects.</p>
+
+<p>Currently, I work with the <strong>Lean Theorem Prover</strong> to formalize mathematical theories and investigate how formal verification frameworks may integrate with modern AI systems to build reliable, interpretable, and structurally-aware mathematical intelligence.</p>
+
+<p>You can find my CV here: 
+<a href="../assets/CV.pdf"><strong>Hongwei Wang CV (Updated 11/09/25)</strong></a>. 
+The document provides a reverse-chronological academic summary, while this website offers a detailed narrative of my intellectual development and research journey.</p>
+
+<p>On this website, you can explore my <strong>research projects</strong>, <strong>academic talks</strong>, 
+<strong>teaching experience</strong>, and my evolving exploration from pure mathematics toward formal and AI-driven mathematical systems. 
+If my work aligns with your interests in mathematics, formal verification, or AI research, please feel free to contact me:</p>
+
+<div class="contact-info">
+  <a href="mailto:1972396871@qq.com" class="contact-email">1972396871@qq.com</a>
+  <a href="mailto:Hongwei.wang22@student.xjtlu.edu.cn" class="contact-email">Hongwei.wang22@student.xjtlu.edu.cn</a>
+</div>
+
   </div>
+</div>
+
 
 <h2 class="section-title">Education</h2>
 <div class="timeline" style="--timeline-color: #2c3e50;">
