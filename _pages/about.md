@@ -368,10 +368,26 @@ If my work aligns with your interests in mathematics, formal verification, or AI
     <tr class="fade-in">
       <td>
         <strong>
-          A Formalization for Categories, Functors and Natural Transformations
+          Formal Algebraic Structures as Machine-Verifiable Mathematical Systems
         </strong>
       </td>
-      <td>Dec 2025</td>
+      <td>Jan 2026</td>
+      <td>
+        <div>
+          <a href="../assets/AlgebraicStructure.lean.pdf" target="_blank">[PDF]</a>
+        </div>
+        <div>
+          <a href="../assets/AlgebraicStructure.lean" download>[Code]</a>
+        </div>
+      </td>
+    </tr>
+    <tr class="fade-in">
+      <td>
+        <strong>
+          Formalizing Category-Theoretic Structures in Lean 4
+        </strong>
+      </td>
+      <td>Jan 2026</td>
       <td>
         <div>
           <a href="../assets/CategoryFormalization.lean.pdf" target="_blank">[PDF]</a>
