@@ -347,7 +347,9 @@ If my work aligns with your interests in mathematics, formal verification, or AI
         </strong>
       </td>
       <td>Dec 2025</td>
-      <td><a href="../assets/Benchmark.pdf">[PDF]</a></td>
+      <td>
+        <a href="https://github.com/sciencraft/LeanCat" target="_blank">[GitHub]</a>
+      </td>
     </tr>
   </tbody>
 </table>
