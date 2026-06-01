@@ -267,9 +267,7 @@ redirect_from:
 <div class="academic-container">
   <div class="profile-content">
 
-<p>I'm a Year 4 undergraduate student from 
-<a href="https://www.xjtlu.edu.cn/zh/study/departments/school-of-mathematics-and-physics">School of Mathematics and Physics</a>, 
-<a href="https://www.xjtlu.edu.cn/">Xi'an Jiaotong-Liverpool University (XJTLU)</a>.</p>
+<p>BSc Mathematics, <a href="https://www.xjtlu.edu.cn/">Xi'an Jiaotong-Liverpool University (XJTLU)</a> (2022–2026) &nbsp;|&nbsp; Incoming MSc, NYU Abu Dhabi MIDSAI '28</p>
 
 <p>Trained as a <strong>pure mathematics</strong> student, my primary research lies in 
 <strong>Algebraic Topology and Homotopy Theory</strong>. 
@@ -283,6 +281,8 @@ to enhance AI’s capability in understanding, representing, and reasoning about
 
 <p>Currently, I work with the <strong>Lean Theorem Prover</strong> to formalize mathematical theories and investigate how formal verification frameworks may integrate with modern AI systems to build reliable, interpretable, and structurally-aware mathematical intelligence.</p>
 
+<p>I am also the founder of <a href="https://chaosbutterfly.ai"><strong>Chaos Butterfly</strong></a> (chaosbutterfly.ai), building formal verification infrastructure for AI systems.</p>
+
 <p>You can find my CV here: 
 <a href="../assets/CV.pdf"><strong>Hongwei Wang CV (Updated 11/09/25)</strong></a>. 
 The document provides a reverse-chronological academic summary, while this website offers a detailed narrative of my intellectual development and research journey.</p>
@@ -294,6 +294,7 @@ If my work aligns with your interests in mathematics, formal verification, or AI
 <div class="contact-info">
   <a href="mailto:1972396871@qq.com" class="contact-email">1972396871@qq.com</a>
   <a href="mailto:Hongwei.wang22@student.xjtlu.edu.cn" class="contact-email">Hongwei.wang22@student.xjtlu.edu.cn</a>
+  <a href="mailto:chaosbutterfly54@gmail.com" class="contact-email">chaosbutterfly54@gmail.com</a>
 </div>
 
   </div>
@@ -367,6 +368,17 @@ If my work aligns with your interests in mathematics, formal verification, or AI
     </tr>
   </thead>
   <tbody>
+    <tr class="fade-in">
+      <td>
+        <strong>
+          CB-Attractor: Formal Verification of ReLU Neural Network Decision Regions in Lean 4
+        </strong>
+      </td>
+      <td>May 2026</td>
+      <td>
+        <a href="https://github.com/chaos-butterfly-tech/CB-Attractor" target="_blank">[GitHub]</a>
+      </td>
+    </tr>
     <tr class="fade-in">
       <td>
         <strong>
@@ -550,6 +562,20 @@ If my work aligns with your interests in mathematics, formal verification, or AI
       <li>Wrote review paper <em>"Arithmetical Functions and Elementary Theorems on the Distribution of Primes"</em></li>
       <li>Programmed <strong>Python</strong> visualizations generating prime number spirals (Ulam, Klauber, Sacks)</li>
       <li>Investigated properties of prime-rich polynomials through computational analysis</li>
+    </ul>
+  </div>
+
+  <h2 class="section-title">Startup</h2>
+
+  <div class="experience-card fade-in">
+    <div class="experience-header">
+      <h3 class="experience-title"><a href="https://chaosbutterfly.ai" target="_blank">Chaos Butterfly</a> (chaosbutterfly.ai)</h3>
+    </div>
+    <div class="experience-advisor">Founder</div>
+    <ul>
+      <li>Building <strong>formal verification infrastructure</strong> for AI systems</li>
+      <li><strong>CB-Attractor</strong>: Formal verification of ReLU neural network decision regions in Lean 4 (<a href="https://github.com/chaos-butterfly-tech/CB-Attractor" target="_blank">GitHub</a>)</li>
+      <li><strong>FORMA</strong>: Formal verification framework for AI reliability</li>
     </ul>
   </div>
 
